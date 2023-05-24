@@ -1,16 +1,14 @@
-# i_am_rich
+# I am rich App 💎
+* A very simple flutter project that displays text and diamond image.
 
-A new Flutter project.
+<br/>
 
-## Getting Started
+## 📷 Preview 
+![미리보기](https://github.com/HyojunK/i_am_rich/assets/26563226/c2d955dd-a1ae-43ef-a852-1a90a9839bae)
 
-This project is a starting point for a Flutter application.
+<br/>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💡 What I've Learned
+* A fundamental concept and structure of Flutter widget tree.
+* How to add assets to application.
+* How to change the application launcher icon in Flutter.
